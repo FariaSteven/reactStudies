@@ -1,23 +1,25 @@
-# 📝 Estudos em React
+# 📝 React Studies
 
-> Projeto de estudo feito com o intuito de cobrir a maioria dos hooks e funcionalidades do ReactJS.
+>  Multi-step form developed with the aim of acquiring and applying new skills with forms completely
 
-## 💻 Pré-requisitos
+## 💻 Prerequisites
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-* Ter o `NodeJS` instalado.
+Before start, check if you have the requirements to run this project:
 
-## ☕ Instalando o projeto
+- `NodeJS` installed.
 
-Em seu terminal dentro da pasta do projeto execute o comando abaixo para executar o projeto:
+## 🚀 Installing the projects
 
+To install this project, follow the steps below:
+
+In your terminal, inside the project folder, run the command below to install the dependencies:
 ```
-yarn start
+yarn
 ```
 
-## ☕ Executando o projeto
+## ☕ Running the project
 
-Em seu terminal dentro da pasta do projeto execute o comando abaixo para executar o projeto:
+In your terminal, inside the project folder, run the command below to run the project:
 
 ```
 yarn start
